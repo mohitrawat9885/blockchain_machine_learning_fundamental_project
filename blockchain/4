@@ -1,0 +1,8 @@
+{
+    "shape": "Triangle",
+    "text": "This is just text for Blockchains.",
+    "prev_block": {
+        "hash": "b30bc7d05e7e27e011a2160a977c7595",
+        "filename": "3"
+    }
+}
