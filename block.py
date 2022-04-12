@@ -1,13 +1,6 @@
-
-from importlib.metadata import files
 import json
 import os
 import hashlib
-import re
-import string
-from unittest import result
-
-from numpy import block
 
 BLOCKCHAIN_DIR = 'blockchain/'
 
