@@ -1,10 +1,6 @@
-from turtle import shape
-from unittest import result
 from flask import Flask, render_template, request
 from werkzeug.utils import secure_filename
-from werkzeug.datastructures import  FileStorage
 import cv2
-
 from block import write_block, check_integrity
 
 app = Flask(__name__)
